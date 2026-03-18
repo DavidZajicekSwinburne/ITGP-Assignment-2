@@ -1,0 +1,37 @@
+# Assignment 2.1 - Task Report
+## Cover Sheet
+___
+
+### Team Name
+- (Your ID) Your name first, rest of the team after
+- (ID) Name
+- (ID) Name
+…
+
+Class Time: Day-Time
+Tutor Name: Name
+
+___
+
+# Section 1: Skill/Task Summary
+- Q: Which skill/task is this report for? (Copy/paste the skill/item code here. It should really only include one skill per report. For multiple skills, have multiple reports)
+> A:
+
+- Q: Did you have any experience or assistance (or give assistance) relating to this task?
+> A:
+
+- Q: How easy/hard did you find this task? Was it how you expected/was it weirder than you thought, going in?
+> A:
+
+- Q: Attach a screenshot of the Version Control system showing that the work assets have been ‘pushed’ to the server (i.e. all git commit/push logs, perforce logs, etc.) - the work can be finished/unfinished. If you also did time tracking on this task, put a screenshot of the time logs here as well.
+> A:
+
+___
+
+# Section 2: Logs and Notes
+Tips:
+- Compile notes/screenshots on how you did this task, and what you explored. Whoever reads your notes should get a sense of how you approached this task
+- Report about key steps/troubles/solutions you came across doing the tasks.
+- Commentary on whether you provided help to others or not, if applicable, etc.
+- After each section/skill, comment about how easy, or difficult (or weird) the steps may be, to do the task/skill.
+- Consider taking screenshots of important settings instead of just writing all the steps out - but if you take screenshots, at least caption them with 1-2 sentences of what's going on in the screenshot.

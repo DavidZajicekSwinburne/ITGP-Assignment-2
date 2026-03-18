@@ -1,0 +1,68 @@
+# Assignment 2.2 - Workflow Reflection Report
+## Cover Sheet
+___
+
+### Team Name
+- (Your ID) Your name first, rest of the team after
+- (ID) Name
+- (ID) Name
+…
+
+Class Time: Day-Time
+Tutor Name: Name
+
+___
+
+# Section 1: Skill/Task Selection
+For easier reference, copy/paste your selected skills here from your group submission.
+1. XX##: ((copy/paste the whole description + item code on the left from the skills/task list template))
+2.
+3. ...
+4. ...
+5. ...
+6. ...
+7.  (yes you can add,or change skills as you go, but make notes if you skipped or stopped a skill attempt)
+
+___
+
+
+# Section 2: Group Tool Selection Questions
+- Q: Which Game Engine did your group decide to use for this task? Why? Also mention if you considered other engines and why.
+> A:
+
+- Q: Who contributed to the process of setting up the initial repository? Have they worked with any VCSs before?
+> A:
+
+- Q: How was the process of setting up the 'ignore' configuration in your chosen VCS? Easy/hard? Makes sense? Still confusing?
+> A:
+
+- Q: How much communication did you plan, and did you end up meeting those plans? How did it go? Was there any structure to the communication channels or anything like that?
+> A:
+
+___
+
+
+# Section 3: Self Reflection and Evaluation
+- Q: What tasks did you find the most challenging out of the ones you tried/listed? Why?
+> A:
+
+- Q: What tasks did you find the least challenging out of the ones you tried/listed? Why?
+> A:
+
+- Q: Any reasons behind your task/skill range selection? i.e. Did you want to explore, were you curious, or specialise? Or just wanted to collaborate with someone on some skill? (note: very open ended question)
+> A:
+
+- Q: Version control (VC) is one of the most core tools used in any software development industry (games included). Which did you use, and how did you go with using the VC system? Did you have previous experience with this software?
+> A:
+
+- Q: Did you or anyone in your team have previous experience with your chosen VCS previously? Did you have to do a lot of troubleshooting with others in the team with the VCS?
+> A:
+
+- Q: Would you consider switching VCSs in the future? Why? What do you think you learned well, and what else do you feel you should learn more about in the future?
+> A:
+
+- Q: Did you pick up any new skills or software during this assignment? How was that experience, and will you continue using the tools in the future, or not? Why?
+> A:
+
+- Q: Any other feedback/thoughts/reflections?
+> A:

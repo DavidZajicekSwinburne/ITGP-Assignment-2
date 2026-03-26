@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkuu252x6k5f3"
+path="res://.godot/imported/crest.obj-8c482da9be1caba4133fc6019ac546cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crest.obj-8c482da9be1caba4133fc6019ac546cf.mesh"]
+
+source_file="res://Assets/Kenney Minigolf OBJ format/crest.obj"
+dest_files=["res://.godot/imported/crest.obj-8c482da9be1caba4133fc6019ac546cf.mesh", "res://.godot/imported/crest.obj-8c482da9be1caba4133fc6019ac546cf.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

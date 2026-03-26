@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bulj4t8np2wxj"
+path="res://.godot/imported/ramp-sharp.obj-1d02e8539eefcce7280d88441f2c29ce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ramp-sharp.obj-1d02e8539eefcce7280d88441f2c29ce.mesh"]
+
+source_file="res://Assets/Kenney Minigolf OBJ format/ramp-sharp.obj"
+dest_files=["res://.godot/imported/ramp-sharp.obj-1d02e8539eefcce7280d88441f2c29ce.mesh", "res://.godot/imported/ramp-sharp.obj-1d02e8539eefcce7280d88441f2c29ce.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

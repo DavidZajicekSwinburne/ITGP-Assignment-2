@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bnqpj4vev06qk"
+path="res://.godot/imported/spline-concave-straight.obj-4cf89dc76afa4edfd9746c5bac9bf2fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/spline-concave-straight.obj-4cf89dc76afa4edfd9746c5bac9bf2fb.mesh"]
+
+source_file="res://Assets/Kenney Minigolf OBJ format/spline-concave-straight.obj"
+dest_files=["res://.godot/imported/spline-concave-straight.obj-4cf89dc76afa4edfd9746c5bac9bf2fb.mesh", "res://.godot/imported/spline-concave-straight.obj-4cf89dc76afa4edfd9746c5bac9bf2fb.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

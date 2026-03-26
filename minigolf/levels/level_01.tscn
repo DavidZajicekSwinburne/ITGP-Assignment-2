@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://cd8n85qxfg263"]
+
+[ext_resource type="MeshLibrary" uid="uid://cgiyooc8w3gog" path="res://minigolf/mesh_library.tres" id="1_032oh"]
+[ext_resource type="PackedScene" uid="uid://dwaatk41i6eak" path="res://minigolf/ball.tscn" id="2_i8l8v"]
+
+[sub_resource type="Environment" id="Environment_kvs7d"]
+
+[node name="Level01" type="Node3D" unique_id=1023581441]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1113580475]
+environment = SubResource("Environment_kvs7d")
+
+[node name="GridMap" type="GridMap" parent="." unique_id=1134686664]
+mesh_library = ExtResource("1_032oh")
+cell_size = Vector3(1, 1, 1)
+cell_center_y = false
+data = {
+"cells": PackedInt32Array(65535, 0, 1441792, 0, 0, 10, 0, 65535, 1048586, 65535, 65535, 1441795)
+}
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1489515899]
+transform = Transform3D(1, 0, 0, 0, 0.70710677, 0.7071068, 0, -0.7071068, 0.70710677, -1.1920929e-07, 1.8540517, 1.5235686)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=480319658]
+transform = Transform3D(1, 0, 0, 0, 0.70710677, 0.70710677, 0, -0.70710677, 0.70710677, 0, 4, 3)
+
+[node name="Ball" parent="." unique_id=630289579 instance=ExtResource("2_i8l8v")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.55513537, 0.1100961, -0.52853)

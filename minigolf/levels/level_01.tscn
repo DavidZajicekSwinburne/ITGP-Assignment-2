@@ -25,4 +25,4 @@ transform = Transform3D(1, 0, 0, 0, 0.70710677, 0.7071068, 0, -0.7071068, 0.7071
 transform = Transform3D(1, 0, 0, 0, 0.70710677, 0.70710677, 0, -0.70710677, 0.70710677, 0, 4, 3)
 
 [node name="Ball" parent="." unique_id=630289579 instance=ExtResource("2_i8l8v")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.55513537, 0.1100961, -0.52853)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.55513537, 0.42795005, -0.52853)

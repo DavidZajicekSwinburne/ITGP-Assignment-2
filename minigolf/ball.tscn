@@ -1,5 +1,20 @@
 [gd_scene format=3 uid="uid://dwaatk41i6eak"]
 
-[ext_resource type="PackedScene" uid="uid://cb31x4mlrs1ok" path="res://Assets/Kenney Minigolf GLB format/ball-blue.glb" id="1_sfb2k"]
+[ext_resource type="ArrayMesh" uid="uid://buph5j6khktw2" path="res://Assets/Kenney Minigolf OBJ format/ball-blue.obj" id="2_00pmh"]
+[ext_resource type="Script" uid="uid://crnq3t0xjw6q7" path="res://minigolf/ball.gd" id="2_5jnmf"]
 
-[node name="Ball" unique_id=630289579 instance=ExtResource("1_sfb2k")]
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5jnmf"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_nbt1d"]
+radius = 0.03497162
+
+[node name="Ball" type="RigidBody3D" unique_id=1745306359]
+physics_material_override = SubResource("PhysicsMaterial_5jnmf")
+script = ExtResource("2_5jnmf")
+
+[node name="BallBlue" type="MeshInstance3D" parent="." unique_id=367182706]
+mesh = ExtResource("2_00pmh")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1319857555]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -7.450208e-05, 0)
+shape = SubResource("SphereShape3D_nbt1d")

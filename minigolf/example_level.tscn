@@ -14,7 +14,7 @@ mesh_library = ExtResource("1_cpl2c")
 cell_size = Vector3(1, 1, 1)
 cell_center_y = false
 data = {
-"cells": PackedInt32Array(1, 0, 1048579, 65534, 0, 1441792, 65535, 0, 1441794, 0, 0, 1441794)
+"cells": PackedInt32Array(65534, 0, 1441792, 65535, 0, 1441794, 0, 0, 1441794, 1, 0, 10)
 }
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=1489515899]

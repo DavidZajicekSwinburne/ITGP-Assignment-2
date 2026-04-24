@@ -4,6 +4,7 @@
 [ext_resource type="Script" uid="uid://crnq3t0xjw6q7" path="res://minigolf/ball.gd" id="2_5jnmf"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5jnmf"]
+bounce = 0.2
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_nbt1d"]
 radius = 0.03497162
